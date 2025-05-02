@@ -8,17 +8,17 @@ import axios from 'axios'
 
 global.owner = [
   ['', 'watsonfourpence', true], 
-  ['263789622747', 'WATSON-XD', true], 
+  ['233240170986', 'WATSON-XD', true], 
   ['', 'WATSON-XD', true],
-  ['263781330745', 'WATSON-XD', true] ]
+  ['233240170986', 'selina ', true] ]
 
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['263', '263781330745', '263789622747','263789622747'] 
-global.prems = ['263781330745','263789622747','']
-global.allowed = ['263781330745', '263781330745','263781330745']
+global.mods = ['263', '233240170986', '263789622747','263789622747'] 
+global.prems = ['233240170986','263789622747','']
+global.allowed = ['233240170986', '263781330745','263781330745']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -55,8 +55,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '✨️ 𝐖𝐀𝐓𝐒𝐎𝐍-𝐗𝐃-𝐁𝐎𝐓 ✨️'
 global.premium = 'true'
-global.packname = 'WATSON-XD' 
-global.author = '263789622747' 
+global.packname = 'Selina blinks' 
+global.author = '233240170986' 
 global.menuvid = 'https://i.imgur.com/TIi1gmb.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029Vb2bsRhLCoWthwxUC82B\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/EvasRhIcb9L5TtKcjlFoQo\n'
